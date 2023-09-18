@@ -1,7 +1,7 @@
 # lectureR
 
-##기초부터 코드를 따라하고 수정해볼 수 있는
-https://www.w3schools.com/r/default.asp
+[기초부터 코드를 따라하고 수정해볼 수 있는]
+(https://www.w3schools.com/r/default.asp)
 
 ##2017 “R for Data Science”
 https://r4ds.had.co.nz/index.html

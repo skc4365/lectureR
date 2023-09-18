@@ -18,4 +18,7 @@
 [2017 “Hands-On Machine Learning with R”]
 (https://bradleyboehmke.github.io/HOML/)
 
+---
+![lib오류_경로설정](https://github.com/skc4365/lectureR/assets/50658047/0d56de64-538b-44d4-9d9a-b08e970a3cef)
+
 
